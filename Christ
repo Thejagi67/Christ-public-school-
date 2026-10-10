@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "Christ Inter College",
+  "short_name": "Christ College",
+  "description": "Christ Inter College Demo App",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#123456",
+  "orientation": "portrait"
+}
+
