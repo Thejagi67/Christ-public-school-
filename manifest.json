@@ -1,9 +1,9 @@
 
 {
   "id": "./",
-  "name": "Christ Inter College",
-  "short_name": "Christ College",
-  "description": "Christ Inter College Demo App",
+  "name": "school app",
+  "short_name": "school app",
+  "description": "school Demo App",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
